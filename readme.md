@@ -1,2 +1,2 @@
 Calculator
-Calculate [here](http://sunsplat.github.io/fcc_calc/calc.html)
+Calculate [here](http://sunsplat.github.io/fcc_calc/index.html)
