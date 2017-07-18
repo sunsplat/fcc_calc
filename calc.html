@@ -106,6 +106,9 @@
         if (document.getElementById('display').innerHTML == 'Ready') {
           document.getElementById('display').innerHTML = '';
         }
+        if (event.target.id == 'keys') {
+          return;
+        }
         var innerText = event.target.innerHTML;
         switch (innerText) {
           case 'AC':
